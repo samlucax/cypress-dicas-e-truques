@@ -153,7 +153,7 @@ O objeto  `this.currentTest` contém o status de todo o teste
 Verifique se o teste passou ou falhou  ↑
 
 
-## Explore o ambiente
+## Explore o ambiente com o debugger
 
 Você pode pausar a execução do teste usando a palavra-chave `debugger`. Certifique-se de que o DevTools esteja aberto!
 
