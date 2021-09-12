@@ -14,6 +14,11 @@ _Favorite este repositório e compartilhe esse material para ajudar outras pesso
 - [Grave vídeos de sucesso e falha](#grave-v%C3%ADdeos-de-sucesso-e-falha "Grave vídeos de sucesso e falha")
 - [Mova o que for código comum para o pacote de utilitário](#mova-o-que-for-c%C3%B3digo-comum-para-o-pacote-de-utilit%C3%A1rio "Mova o que for código comum para o pacote de utilitário")
 - [Separe os testes em pacotes](#separe-os-testes-em-pacotes "Separe os testes em pacotes")
+- [Faça com que os erros Javascript sejam úteis](#fa%C3%A7a-com-que-os-erros-de-javascript-sejam-%C3%BAteis "Faça com que os erros Javascript sejam úteis")
+- [Use nomes de teste ao criar dados](#use-nomes-de-teste-ao-criar-dados "Use nomes de teste ao criar dados")
+- [Obtenha o status do teste](#obtenha-o-status-do-teste "Obtenha o status do teste")
+- [Explore o ambiente com o debugger](#explore-o-ambiente-com-o-debugger "Explore o ambiente com o debugger")
+- [Execute os arquivos de teste um por um](#execute-todos-os-arquivos-de-teste-um-por-um "Execute os arquivos de teste um por um")
 
 ---
 
