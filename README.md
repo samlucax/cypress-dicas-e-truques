@@ -7,11 +7,11 @@
 _Favorite este repositório e compartilhe esse material para ajudar outras pessoas_
 
 # Dicas e Truques
-- Leia a documentação
-- Execute o Cypress em sua Integração Contínua
-- Grave vídeos de sucesso e falha
-- Mova o que for código comum para o pacote de utilitário
-- Separe os testes em pacotes
+- [Leia a documentação](#leia-a-documenta%C3%A7%C3%A3o "Leia a documentação")
+- [Execute o Cypress em sua Integração Contínua](#execute-o-cypress-em-sua-integra%C3%A7%C3%A3o-cont%C3%ADnua "Execute o Cypress em sua Integração Contínua")
+- [Grave vídeos de sucesso e falha](#grave-v%C3%ADdeos-de-sucesso-e-falha "Grave vídeos de sucesso e falha")
+- [Mova o que for código comum para o pacote de utilitário](#mova-o-que-for-c%C3%B3digo-comum-para-o-pacote-de-utilit%C3%A1rio "Mova o que for código comum para o pacote de utilitário")
+- [Separe os testes em pacotes](#separe-os-testes-em-pacotes "Separe os testes em pacotes")
 
 ---
 
@@ -37,7 +37,6 @@ Observe que o `cypress ci` ... carregará vídeos gravados e imagens (se captur�
 **Extra**: entenda a diferença atualizada dos [comandos de execução](https://docs.cypress.io/guides/guides/command-line#Commands "comandos de execução") do Cypress
 
 ## Grave vídeos de sucesso e falha
-
 Quando a equipe do Cypress lançou a funcionalidade de captura de vídeo na versão [0.17.11](https://github.com/cypress-io/cypress/wiki/changelog#01711-11162016 "0.17.11"), logo ela se tornou a minha funcionalidade favorita. Eu configurei o [GitLab CI](https://about.gitlab.com/gitlab-ci/ "GitLab CI") para guardar os artefatos de execuções de teste "mal sucedidas" por 1 semana, enquanto mantive os vídeos de execuções de teste "bem-sucedidas" por apenas 3 dias.
 
 ``` yaml
