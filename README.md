@@ -164,7 +164,7 @@ it('bar', function () {
 })
 ```
 
-## Execute todos os arquivos de teste localmente #
+## Execute os arquivos de teste um por um
 Se você separar os testes do [Cypress](https://www.cypress.io/ "Cypress") E2E em vários arquivos de *spec*, logo terá muitos arquivos. Se você precisar executar os scripts um por um na linha de comando, eu escrevi um pequeno utilitário [run-each-cypress-spec](https://github.com/bahmutov/run-each-cypress-spec "run-each-cypress-spec")
 
 ```sh
