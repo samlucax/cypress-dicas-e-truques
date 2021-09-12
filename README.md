@@ -18,7 +18,7 @@ _Favorite este repositório e compartilhe esse material para ajudar outras pesso
 - [Use nomes de teste ao criar dados](#use-nomes-de-teste-ao-criar-dados "Use nomes de teste ao criar dados")
 - [Obtenha o status do teste](#obtenha-o-status-do-teste "Obtenha o status do teste")
 - [Explore o ambiente com o debugger](#explore-o-ambiente-com-o-debugger "Explore o ambiente com o debugger")
-- [Execute os arquivos de teste um por um](#execute-todos-os-arquivos-de-teste-um-por-um "Execute os arquivos de teste um por um")
+- [Execute os arquivos de teste um por um](#execute-os-arquivos-de-teste-um-por-um "Execute os arquivos de teste um por um")
 
 ---
 
