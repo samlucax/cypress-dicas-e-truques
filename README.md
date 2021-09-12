@@ -1,8 +1,8 @@
 <h1 align="center">Cypress Dicas e Truques</h1>
 <p align="center">Uma série de dicas e truques sobre Cypress, traduzido e adaptado do post "Cypress Tips and Tricks" do Gleb Bahmutov </p>
 
-[Artigo original](https://glebbahmutov.com/blog/cypress-tips-and-tricks/ "Artigo original")
-[Curso Gratuito de Cypress](https://youtube.com/playlist?list=PLnUo-Rbc3jjztMO4K8b-px4NE-630VNKY "Curso Gratuito de Cypress"): 
+- [Artigo original](https://glebbahmutov.com/blog/cypress-tips-and-tricks/ "Artigo original")
+- [Curso Gratuito de Cypress](https://youtube.com/playlist?list=PLnUo-Rbc3jjztMO4K8b-px4NE-630VNKY "Curso Gratuito de Cypress"): 
 
 _Favorite este repositório e compartilhe esse material para ajudar outras pessoas_
 
