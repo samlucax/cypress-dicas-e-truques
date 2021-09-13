@@ -28,7 +28,9 @@ _Em construção, próximas dicas e truques serão publicados ao longo da semana
 
 ---
 
-Já faz algum tempo que usamos o Cypress para verificar nossos sites e aplicativos web. Aqui estão algumas dicas e truques que aprendemos.
+Já faz algum tempo que usamos o Cypress para verificar nossos sites e aplicativos web. 
+
+Aqui estão algumas dicas e truques que aprendemos.
 
 ## Leia a documentação
 
