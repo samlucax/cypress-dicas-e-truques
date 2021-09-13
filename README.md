@@ -22,6 +22,12 @@ _Favorite este repositório e compartilhe esse material para ajudar outras pesso
 
 ---
 
+_Em construção, próximas dicas e truques serão publicados ao longo da semana_
+
+#COMPARTILHE
+
+---
+
 Já faz algum tempo que usamos o Cypress para verificar nossos sites e aplicativos web. Aqui estão algumas dicas e truques que aprendemos.
 
 ## Leia a documentação
