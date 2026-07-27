@@ -34,7 +34,7 @@ Aqui estão algumas dicas e truques que aprendemos.
 
 ## Leia a documentação
 
-O Cypress tem uma documentação excelente em https://docs.cypress.io/, incluindo [exemplos](https://docs.cypress.io/docs/all-example-apps "exemplos"), [guias](https://on.cypress.io/guides "guias"), [vídeos](https://www.cypress.io/explore/ "vídeos") e até mesmo um [canal de bate-papo](https://gitter.im/cypress-io/cypress "canal de bate-papo"). Também existe a funcionalidade de "Pesquisar" (Ctrl/CMD + K) que ajudar a encontrar rapidamente as documentações necessárias. A pesquisa é muito boa e cobre os documentos, as postagens do blog e os exemplos.
+O Cypress tem uma documentação excelente em https://docs.cypress.io/, incluindo [exemplos](https://docs.cypress.io/docs/all-example-apps "exemplos"), [guias](https://on.cypress.io/guides "guias"), [vídeos](https://www.cypress.io/explore/ "vídeos") e até mesmo um [canal de bate-papo](https://gitter.im/cypress-io/cypress "canal de bate-papo"). Também existe a funcionalidade de "Pesquisar" (Ctrl/CMD + K) que ajuda a encontrar rapidamente as documentações necessárias. A pesquisa é muito boa e cobre os documentos, as postagens do blog e os exemplos.
 
 Recentemente, alguns exemplos comuns foram centralizados em um [único lugar](https://github.com/cypress-io/cypress-example-recipes "único lugar"). Se você ainda tiver problemas com o Cypress, pode pesquisar pelos [itens](https://github.com/cypress-io/cypress/issues "problemas") abertos e fechados (originalmente chamados de issues).
 
